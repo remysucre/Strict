@@ -10,3 +10,6 @@
 [submodule "comp150-FP"]
 	path = comp150-FP
 	url = git@github.com:remysucre/comp150-FP.git
+[submodule "strict-experiments"]
+	path = strict-experiments
+	url = git@github.com:remysucre/strict-experiments.git

@@ -30,7 +30,8 @@ Yet Genesis is still primitive: it only accepts projects with one source file an
 
 1. trim down the search space, using static analysis/profiling technics
 2. based on experiments, fine tune the parameters to Genetic Algorithm
-3. add parallelism
+3. compile and profile genes purely
+4. add parallelism
 5. change from time-profiling to space-profiling
 6. combine genetic algorithm with other algorithms
 

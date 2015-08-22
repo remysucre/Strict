@@ -56,6 +56,9 @@ Although we are able to obtain a large amount of sample source, we have not foun
 - GADT
 - F-algebra
 - fix point
+- haddock
+- literate haskell
+- unit testing
 
 **extraneous thoughts**
 

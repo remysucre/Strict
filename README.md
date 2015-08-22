@@ -44,8 +44,16 @@ We have also built tools to obtain target projects which can serve as benchmark 
 
 Although we are able to obtain a large amount of sample source, we have not found a generic way to build and profile them. 
 
+**valuable ideas**
+
+**learn**
+
+****
+
 **TODO**
 
+- [ ] add to learn
+- [ ] add ideas
 - [ ] process 150-FP wiki
 - [ ] organize experiment data
 - [ ] integrate old todo and README

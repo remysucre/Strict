@@ -45,10 +45,18 @@ We have also built tools to obtain target projects which can serve as benchmark 
 Although we are able to obtain a large amount of sample source, we have not found a generic way to build and profile them. 
 
 **valuable ideas**
+- simulated annealing
+- call-by-need calculus
+- artificial neuro-network
+- simulated quantum state collapse
 
-**learn**
+**learn you more haskell for greater good**
+- typeclasses
+- GADT
+- F-algebra
+- fix point
 
-****
+**extraneous thoughts**
 
 **TODO**
 

@@ -2,7 +2,6 @@ This repo contains a collecion of sub-repos relating to the haskell strictness p
 
 1. [**Genesis**](https://github.com/remysucre/Genesis) the main software to automate haskell strictness annotation. 
 It also provides tools for running experiments with Genetic Algorithm
-
 2. [**Thunk leak zoo**](https://github.com/remysucre/haskell-thunk-leak-zoo) a collection of thunk leak programs
 caused by laziness, together with analysis and treatments. 
 
